@@ -1,2 +1,1 @@
-# app-predictiontest-
-app prediction resultat course 
+Prédiction des résultat de course, usage d'IA et FASTAPI
